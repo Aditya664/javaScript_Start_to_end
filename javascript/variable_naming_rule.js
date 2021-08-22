@@ -1,10 +1,10 @@
 
 let $name="Aditya";
 
-console.log(name);
+console.log($name);
 
 
 let 11name;
-name = "Aditya";
+11name = "kmm";
 
-console.log(name);
+console.log(11name);
